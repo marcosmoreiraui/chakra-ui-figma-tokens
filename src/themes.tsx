@@ -1,6 +1,6 @@
 import {extendTheme, ThemeConfig} from '@chakra-ui/react'
 import {createBreakpoints} from '@chakra-ui/theme-tools'
-import {Button} from "./components/Button/Button";
+import {Button} from "./components/Button";
 import mainTheme from '../output/main.json';
 import otherTheme from '../output/other.json';
 import mainThemeDark from '../output/main-dark.json';
